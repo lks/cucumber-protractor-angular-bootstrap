@@ -7,11 +7,12 @@ var myStepDefinitionsWrapper = function () {
 	});
 
 	this.When('I display the app', function(callback) {
-		callback.pending();
+		browser.get('http://yoogaa.dev/app/index.html');
+		callback();
 	});
 
-	this.Then('I should see "Hello World"', function(title, callback) {
-		callback.pending();
+	this.Then('I should see "Hello World"', function(callback) {
+		callback();
 	});
 };
 

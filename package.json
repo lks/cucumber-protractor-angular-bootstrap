@@ -1,0 +1,18 @@
+{
+	"name": "cucumber-protractor-angular-bootstrap",
+	"private": false,
+	"version": "0.0.1",
+	"description": "A starter project for AngularJS with Cucumber and protractor",
+	"repository": "https://github.com/lks/cucumber-protractor-angular-bootstrap",
+	"license": "MIT",
+	"devDependencies": {
+		"karma": "~0.10",
+		"phantomjs": "^1.9.7",
+		"protractor": "^1.1.1",
+		"cucumber": "latest",
+		"http-server": "^0.6.1",
+		"bower": "^1.3.1",
+		"shelljs": "^0.2.6",
+		"karma-junit-reporter": "^0.2.2"
+	}
+}

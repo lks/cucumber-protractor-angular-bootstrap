@@ -1,0 +1,18 @@
+{
+	"name": "cucumber-protractor-angular-bootstrap",
+	"private": false,
+	"version": "0.0.1",
+	"description": "A starter project for AngularJS with Cucumber and protractor",
+	"repository": "https://github.com/lks/cucumber-protractor-angular-bootstrap",
+	"license": "MIT",
+	"dependencies": {
+		"angular": "1.2.x",
+		"angular-route": "1.2.x",
+		"angular-loader": "1.2.x",
+		"angular-mocks": "~1.2.x",
+		"html5-boilerplate": "~4.3.0",
+		"bootstrap": "3.1.x",
+		"angular-ui-bootstrap":"0.11.x",
+		"jquery":"1.11.x"
+	}
+}
